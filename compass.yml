@@ -1,0 +1,17 @@
+name: greymatter
+id: ari:cloud:compass:9a7a0a2c-1d0c-44a5-953d-0301fc368251:component/1a2fcb31-6e65-4be9-add3-26283ecd5eec/ccb7f2ca-66ff-43cf-9e57-db7a9357a7b8
+description: null
+configVersion: 1
+typeId: LIBRARY
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/dangerclosesec/greymatter
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
